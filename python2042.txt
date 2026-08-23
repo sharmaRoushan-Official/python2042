@@ -1,0 +1,433 @@
+Python/Go:
+-------------------------
+Python is high-level language, general-purpose, interpreted programming language that is designed to easy to read, easy to write and easy to learn.
+
+------------------------------------------------------------------------
+Python supports multiple programming styles:
+such as:
+
+> Object-oriented programming (OOPs)
+>> Function Programming.
+
+
+-------------------------------------------------
+
+High Level Language
+
+Low Level Languages. Binary Digits[0/1]
+
+
+----------------------------------
+>> Who Created Python?
+
+>> Python was created by Guido Van Rossum in 1989 and officially released in 1991.
+
+
+--------------------------------------------------
+High Level Language: - A High level language is closer to human language and easier to understand.
+
+
+>> Python
+>> C
+>> C++
+>> c#
+>> JavaScript 
+
+Benefits:
+
+
+3- 011
+1 - 1
+2 - 010
+
+
+Hello world
+
+
+a = 10
+b = 5
+Trnaslator = HLL --> LLL
+print(a+b)  => 15 ---> 11111 
+
+
+
+Low Level language:-
+----------------------------
+
+Low Level Language are closer to machine language and difficult for humans.
+
+------------------
+
+>> Assembly lanague: 
+
+>> Machine Code (0/1)
+
+Benefits:
+
+> Very Fast 
+> Direct control of hardware 
+
+Note:
+
+High level language are like English language, 
+
+Low-Level language are like a binary signals.
+
+---------------------------------------------------------------------------------------
+
+Compiler VS Interpreted 
+
+---------------------------------
+
+Compiler:
+A compiler translate entire code at once into machine code.
+
+Example:
+
+10 - Code ---> Error
+
+8 --- Error
+
+
+sum.c
+----
+
+sum.exe
+--------
+Execute - sum.exe
+
+---------------------------------------------------------
+
+C, C++, Java, Kotlin
+---------------------------------------------
+
+Interpreted 
+------------------------------
+
+An interpreted translate the program line by line.
+
+10 - Lines
+
+1 --> Execute One line --> finish
+2 ---> Execute two line --> finish
+3 ---> Execute three line
+4 
+5
+6
+7
+8
+9
+10
+
+---------------------------------------------------------------------------------------
+
+Example:
+
+Python
+
+JavaScript : Frontend Language
+
+Ruby
+
+Perl
+
+------------------------------------------------
+
+Benefits:
+
+>> Easy Debugging 
+> Slower than compiler languages
+>> It execute user's code directly with any executable file.
+
+--------------------------------------------------------------------------------------
+
+Feature	|	Compiler		| Interpreter
+-----------------------------------------------------
+Trnaslation|	Whole program		| Line by Line
+-------------------------------------------------------
+Execution Speed|	Faster		| Slower
+---------------------------------------------------------
+Error Display|	After Compilation	| Immediate
+-----------------------------------------------------------
+Example:|	C,C++			| Python, JavaScript
+----------------------------------------------------------------
+
+
+general-purpose
+------------------------------------------
+> Website 
+> Mobile apps
+> Data Science
+> AI/ML
+> Automation
+> Cyber Security
+> Desktop apps
+etc.
+------------------------------------------------------------------------------------
+
+Note:
+
+C is also general purpose, but Python Preferred because it is  simpler.
+
+------------------------------------------------------------------------------
+
+Programming 
+--------------------------------
+
+What is a program?
+------------------------------
+
+A program is set of instructions given to the computer to perform a specific task.
+
+
+a = 20
+
+b = 30
+
+c = a-b
+
+print(c) = -10 
+
+-------------------------------
+claud.ai
+
+A calculator program:
+--------------------------------------------------
+
+>> Take Input from user
+>> Performs Operation [Operators] [Execution]
+>> Display output
+
+
+--------------------------------------------------------------
+
+>> Why Python is so Popular?
+
+1. Easy Syntax
+	Python syntax looks like English
+2. Less Code
+	a = 10
+	b = 5
+	print(a+b);
+
+In C:
+# include <stdio.h>
+# include <conio.h>
+
+var int a;  // variable declaration
+
+a = 10;  // Variable Initialization
+
+var int b;
+b = 5;
+
+var int sum; 
+sum = a+b;
+printf(sum)  // output
+
+---------------------------------------------------------
+
+3. Cross Platform
+
+------------------------
+
+Python works on:
+
+> Windows
+> Linux
+> Mac 
+----------------------------------------
+4. Huge Community support
+
+Python has millions of developer world wide.
+------------------------------------------------------
+
+5. Large libraries and Frameworks
+--------------------------------------
+1. NumPy
+2. Pandas
+3. Matplotlib
+4. TensorFlow
+5. Django
+--------------------------------------------------------------------
+
+
+6. Supports Automation
+----------------------------------------
+Python can automate repetitive works.
+
+Example:
+
+Sending emails automatically
+
+File renaing
+
+Excel automation
+------------------------------------------------------------------
+
+Data Cleaning/Filter
+
+Pandas 
+NumPy
+Matplot lib
+Sci-kit
+Sql 
+--------------------------------------------------------------------------------------
+
+Python-- Programming Lanaguge
+
+Anaconda Distribution : IDE - [Integrated Development and Environment]:- Translator
+
+Compiler
+
+Interpreter
+
+Python: - pythonBasic.py :- Interpreter
+
+
+basic.c : compiler
+
+Example of IDE
+
+VS Code
+
+PyCharm
+Google Colab
+Notebook++
+Jupyter notebook
+Anoconda 
+------------------------------------------------------------------------
+
+Gas Stove
+material 
+Setup
+
+--------------------------------------------------------------------------------------------
+
+Python Course Content: Basic to Advanced
+-------------------------------------------------------------
+1. Python Basic
+2. Python Data types
+3. String Data type
+4. List Data type
+5. Tuple Data type
+6. Set Data Type
+7. Dictionary Data type
+8. Conditions
+	>> if,elif,else
+9. Loop
+	> Entry Controlled Loop
+		>> For-in
+		>> While 
+	> Exit Controlled Loop
+		>> C - do-while
+10. Function
+	1. Built-in function
+	2. User-Defined Function
+	3. Anonymous Function(Lambda)
+11. Exceptional handling
+	> try, except, else, finally, raise, Assertion
+12. OOPs [Object Oriented Programming Structure]
+	> Pillars of OOPs
+	>> Three are Four Pillars of OOPs
+	>> 1. Inheritance
+		1. Simple/Single Inheritance
+		2. Multiple Inheritance
+		3. Multilevel Inheritance
+		4. Hierarchical Inheritance
+		5. Hybrid Inheritance
+	>> 2. Encapsulation [Wrapping up of data]
+		Method of Wrapping
+		1. Public
+		2. Protected
+		3. Private
+	>> 3. Polymorphism
+		1. Method Overloading
+		2. Method Overriding
+		3. Operator Overloading
+	>> 4. Data Abstraction
+		> Module
+		> from abc import ABC [Abstract Base Classes]
+		> abstract method 
+13. File Handling
+	1. Text File: .txt: Notepad
+	2. Binary File: .jpg, .jpeg, .pdf, .xlsx, .ppt, .json, .docx
+	----------------
+	1. Reading Files in Python
+	2. Writing Files in Python
+14. Lambda Function
+	>> Methods
+	>> lambda with filter
+	>> lambda with map
+	>> lambda with reduce
+	>> lambda with sort
+	>> lambda with apply
+15. List Comprehension 
+
+16. Decorator in Python
+
+17. Generator in Python
+
+18. JSON in Python
+
+19. API [Application Programming Interface]
+	Method
+	>> GET
+	>> POST
+	>> PUT
+	>> PATCH
+	>> DELETE
+20. Minimal Project
+
+-----------------------------------------
+
+DA- Data Analyst
+-----------------
+
+>> Excel
+>> Python
+>> Library
+	> pandas
+	> NumPy
+	> Matplotlib
+	> sci-kit
+>> Visualization 
+	>> PowerBi
+>> SQL [Database]
+
+----------------------------------
+
+GEN AI
+----------
+
+Level 1 — Fundamentals
+AI → ML → Deep Learning → Generative AI → LLMs
+
+Level 2 — Prompting
+Prompt Engineering → Structured Prompts → Few-shot → Advanced Prompting
+
+Level 3 — Development
+Python → APIs → LLM Integration → Chatbot
+
+Level 4 — Advanced GenAI
+Embeddings → Vector DB → RAG → Agents → Function Calling
+
+Level 5 — Production
+Security → Evaluation → Cost → Deployment → Monitoring
+
+Level 6 — Capstone
+Build and deploy a complete Generative AI application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
